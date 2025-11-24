@@ -1,7 +1,7 @@
 ![Banner](assets/Banner.png)
 
 # ✨ Who am I?
-I'm **Reza Mehdikhanlou**, a passionate Fullstack Web Developer who loves building awesome web applications. I also run a <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube channel</a> where I teach web coding tutorials to help others learn and grow in web development.
+I'm **Ali Siddiqui**, a passionate Fullstack Web Developer who loves building awesome web applications. I also run a <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube channel</a> where I teach web coding tutorials to help others learn and grow in web development.
 
 # 🚀 What I Do
 
@@ -17,7 +17,7 @@ I'm **Reza Mehdikhanlou**, a passionate Fullstack Web Developer who loves buildi
 💬 Let's Connect
 
 * Telegram : <a href="https://t.me/asmrprog_admin" target="_blank">AsmrProg</a>
-* Email : <a href="mailto:mehdikhanloo90@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
+* Email : <a href="mailto:creativeedge230@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
 * GitHub : <a href="https://github.com/asmrprog-yt" target="_blank">Here!</a>
 
 <picture>

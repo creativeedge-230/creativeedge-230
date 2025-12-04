@@ -1,7 +1,7 @@
 ![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB%20Banner.png)
 
 # ✨ Who am I?
-I'm **Ali Siddiqui**, a passionate Fullstack Web Developer who loves building awesome web applications. I also run a <a href="https://youtube.com/@AsmrProg" target="_blank">YouTube channel</a> where I teach web coding tutorials to help others learn and grow in web development.
+I'm **Ali Siddiqui**, Founder/Owner of Creative Edge association where we build high-performance custom webd , apps , softwares etc..
 
 # 🚀 What We Do ?
 

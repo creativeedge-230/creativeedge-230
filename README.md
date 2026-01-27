@@ -1,4 +1,4 @@
-![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB.png)
+![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB.jpg)
 
 # ✨ Who am I?
 I'm **Ali Siddiqui**, Founder/Owner of Creative Edge association where we build high-performance custom webd , apps , softwares etc..

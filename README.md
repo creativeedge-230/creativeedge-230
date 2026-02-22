@@ -1,21 +1,34 @@
 ![Banner](https://github.com/creativeedge-230/creativeedge-230/blob/main/GITHUB.jpg)
 
-# ✨ Who am I?
-I'm **Ali Siddiqui**, Founder/Owner of Creative Edge association where we build high-performance custom webd , apps , softwares etc..
+<h1 align="center">🚀 Creative Edge Technologies</h1>
+<p align="center">
+  <b>Where Ideas Become Intelligent Products</b>
+</p>
 
-# 🚀 What We Do ?
+<p align="center">
+  🤖 AI Automation • 🧠 Intelligent Assistants • ⚡ Futuristic Tech Solutions
+</p>
 
-* 💻 Web App Development
+---
 
-* 🧩 Software Solutions
+## 🌟 About Us
+Creative Edge Technologies is an AI innovation studio focused on building smart automation systems, AI assistants, and scalable digital products.  
+We transform ideas into intelligent, real-world solutions using cutting-edge technologies.
 
-* 🤖 Automation & AI
+> 💡 Our mission: Empower startups & businesses with intelligent automation and future-ready software.
 
-* 🌐 Website Development
+---
 
-* 🛠 Maintenance & Support
+## 🔥 What We Build
+- 🤖 AI Assistants (JARVIS-like systems)
+- ⚙️ Automation Bots & Workflows
+- 📊 Trading Signal AI Systems
+- 🏥 AI Call Agents & Business Automations
+- 🌐 Web Apps & SaaS Platforms
+- 🧠 Machine Learning Powered Tools
 
-* 📊 Data Optimization
+---
+
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
